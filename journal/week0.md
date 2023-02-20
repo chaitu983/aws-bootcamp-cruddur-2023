@@ -62,9 +62,13 @@ If you're getting any error or facing any challenges while creating user or role
 **2. Install AWS CLI in GitPod**
 
 Command to Install AWS CLI:
+
 curl -fSsl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+
 unzip -qq awscliv2.zip
+
 sudo ./aws/install --update
+
 rm awscliv2.zip
        
  In this command we're using "sudo". If you're a root user you don't need to add sudo. it is used to run the command with elevated privileges.
@@ -79,6 +83,7 @@ There are 2 ways to set the billing alerts.
 Those 2 alarms will be helpful to identify if you are underspending/overspending.
 
 AWS Calculator : https://calculator.aws/#/
+
 This is a tool where you can estimate the cost of any service based on the client requirements without actually using it. 
 
 **4. Re-create Conceptual Diagram in Lucid-Charts**
