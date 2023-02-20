@@ -1,5 +1,6 @@
 # Week 0 — Billing and Architecture
 ##Synopsis
+
 This journal consists of the tasks completed in week-0 of AWS Free Bootcamp 2023 organized by Andrew Brown and his Team. In this week, we started with setting up the accounts (aws, gitpod, gihub) that are required before the start of ‘Cruddur Project’.
 ##Pre-Requisites: 
 Before starting this Cloud Project Bootcamp we have to ready with some requirements. 
