@@ -70,7 +70,7 @@ rm awscliv2.zip
  In this command we're using "sudo". If you're a root user you don't need to add sudo. it is used to run the command with elevated privileges.
       
       
-**3. Create a Billing Alarm **
+**3. Create a Billing Alarm**
 
 There are 2 ways to set the billing alerts.
 - Using Budget.
