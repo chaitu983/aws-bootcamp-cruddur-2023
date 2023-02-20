@@ -80,7 +80,8 @@ There are 2 ways to set the billing alerts.
 - Using Budget.
 - Using Cloudwatch Alarm. In this case, you need to create an alarm on us-east-1 region (since it is the only region you can create an alarm for free-tier). You can create up to 10 free cloudwatch alarms with free-tier.
 
-Those 2 alarms will be helpful to identify if you are underspending/overspending.
+Those 2 alarms will be helpful to identify if you are underspending/overspending. 
+Also we will receive an e-mail whenever the limit(We can mention as much as we want) exceeds. 
 
 AWS Calculator : https://calculator.aws/#/
 
