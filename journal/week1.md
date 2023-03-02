@@ -1,5 +1,5 @@
 # Week 1 — App Containerization
-This week we're going to discuss about App Containerization. But before that, I want discuss about Docker Containers and their best practices.
+This week we're going to talk about App Containerization. But before that, I want to discuss about Docker Containers and their best practices.
 
 A container is a lightweight, standalone, and executable package of software that includes everything needed to run an application, including the code, runtime, system tools, libraries, and settings. Containers are designed to be portable, scalable, and easily deployable, and are commonly used in cloud computing environments and DevOps workflows.
 
