@@ -346,7 +346,17 @@ This week was more of coding and the more you code the more errors you will come
 After viewing logs and repeatedly restarting my environment I found that there was a spelling mistake. Instead of `app.logger.debug(e)` I had written it as `app.logger.deug(e)`. So finally after correcting that spelling mistake everyting was running well. 
 
 
+## Summary
 
+| Homework      | Completed     | Not Completed  |
+| ------------- |:-------------:| -----:|
+| Watched Week 3 - Live Streamed Video   | ✔ |  |
+| Watched Ashish's Week 3 - Decenteralized Authentication | ✔      |   
+| Setup Cognito User Pool|✔      |   |
+| Implement Custom Signin, Signup page| ✔      |   |
+| Implement Custom Confirmation Page| ✔   |   |
+| Implement Custom Recovery Page |✔      |   |
+| Verify JWT token server side | ✔      |   |
 
 
 
