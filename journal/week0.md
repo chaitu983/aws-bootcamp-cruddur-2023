@@ -19,6 +19,7 @@ we have to register for the following services:
 - Create Lucidchart ( Hint - In this week, we're going to work here)
 - Create Honeycomb.io account
 - Create Rollbar account
+- 
 
 
 ## Week-0 Billing, Architecture & Security
